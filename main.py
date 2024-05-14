@@ -7,7 +7,6 @@ letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n',
 numbers = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
 symbols = ['!', '#', '$', '%', '&', '(', ')', '*', '+']
 
-print("Welcome to the PyPassword Generator!")
 nr_letters = int(input("How many letters?\n"))
 nr_symbols = int(input(f"How many symbols?\n"))
 nr_numbers = int(input(f"How many numbers?\n"))
